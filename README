@@ -1,0 +1,19 @@
+
+Description
+-----------
+
+A simple script that grabs a list of active maildirs, then compares that list
+to a list of maildirs on the filesystem. Any filesystem maildirs that are not
+in the database will be moved to a backup directory.
+
+Usage
+-----
+
+Edit the script settings within the script at the top. Then just run it in the
+command line or setup a cron job.
+
+License
+-------
+
+
+
